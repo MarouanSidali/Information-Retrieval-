@@ -17,7 +17,7 @@ class SearchEngine:
         return QueryProcessor.process_proximity_query(query, proximity, self.index)
 
 # Load the stemmed positional inverted index file
-index_file = 'positional_inverted_index_v3.txt'
+index_file = './SearchEngine/positional_inverted_index_v3.txt'
 
 # Create the search engine
 engine = SearchEngine(index_file)
