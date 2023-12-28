@@ -33,7 +33,9 @@ queries = {
     'q7': 'natural AND NOT wonders',
     'q8': '"ancient ruins"',
     'q9': '#10(ancient, ruins)',  # Proximity search
-    'q10': '"national park" AND wildlife'
+    'q10': '"national park" AND wildlife',
+    'q11': "Murchison Falls"
+
 }
 
 for query_name, query_text in queries.items():
