@@ -32,6 +32,11 @@ class QueryProcessor:
                 if all((positions[0][i] + j) in positions[j] for j in range(1, len(positions))):
                     results.add(doc)
                     break
+
+        with open('./SearchEngine/results.txt', 'a') as file:
+            for doc_id in results:
+                file.write(f"{phrase}, {doc_id}\n")
+
         return results
 
 
@@ -70,6 +75,10 @@ class QueryProcessor:
             elif operator == 'or':
                 final_result = final_result | results[i]
 
+        with open('./SearchEngine/results.txt', 'a') as file:
+            for doc_id in final_result:
+                file.write(f"{query}, {doc_id}\n")
+
         return final_result
 
     @staticmethod
@@ -86,5 +95,10 @@ class QueryProcessor:
                 if all(any(abs(positions[0][i] - pos) <= proximity for pos in positions[j]) for j in range(1, len(positions))):
                     results.add(doc)
                     break
+
+        with open('./SearchEngine/results.txt', 'a') as file:
+            for doc_id in results:
+                file.write(f"{query}, {doc_id}\n")
+
         return results
 

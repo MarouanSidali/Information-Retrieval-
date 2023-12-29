@@ -1,0 +1,1988 @@
+sandston, 130
+sandston, 4
+sandston, 7
+sandston, 1678
+sandston, 399
+sandston, 659
+sandston, 1687
+sandston, 1819
+sandston, 1951
+sandston, 930
+sandston, 1444
+sandston, 933
+sandston, 937
+sandston, 1972
+sandston, 187
+sandston, 1725
+sandston, 63
+sandston, 69
+sandston, 970
+sandston, 76
+sandston, 79
+sandston, 1236
+sandston, 470
+sandston, 345
+sandston, 603
+sandston, 1757
+sandston, 478
+sandston, 223
+sandston, 353
+sandston, 2145
+sandston, 355
+sandston, 1257
+sandston, 2029
+sandston, 367
+sandston, 240
+sandston, 2160
+sandston, 373
+sandston, 1017
+sandston, 253
+landmark, 131
+landmark, 1411
+landmark, 1157
+landmark, 1544
+landmark, 1546
+landmark, 10
+landmark, 267
+landmark, 1805
+landmark, 782
+landmark, 1806
+landmark, 1807
+landmark, 138
+landmark, 653
+landmark, 1425
+landmark, 402
+landmark, 150
+landmark, 795
+landmark, 669
+landmark, 1568
+landmark, 1184
+landmark, 1058
+landmark, 1441
+landmark, 675
+landmark, 37
+landmark, 549
+landmark, 1577
+landmark, 940
+landmark, 1965
+landmark, 1839
+landmark, 1711
+landmark, 951
+landmark, 2107
+landmark, 831
+landmark, 1344
+landmark, 69
+landmark, 1221
+landmark, 1734
+landmark, 1608
+landmark, 1097
+landmark, 713
+landmark, 1482
+landmark, 1229
+landmark, 1230
+landmark, 1487
+landmark, 1742
+landmark, 1873
+landmark, 1744
+landmark, 1235
+landmark, 1108
+landmark, 1758
+landmark, 2016
+landmark, 2147
+landmark, 2151
+landmark, 1896
+landmark, 231
+landmark, 2023
+landmark, 1392
+landmark, 1137
+landmark, 1648
+landmark, 2162
+landmark, 1777
+landmark, 500
+landmark, 2166
+landmark, 1272
+landmark, 1916
+heritag, 2048
+heritag, 1539
+heritag, 5
+heritag, 2055
+heritag, 1032
+heritag, 1546
+heritag, 13
+heritag, 1549
+heritag, 2064
+heritag, 1041
+heritag, 1043
+heritag, 2068
+heritag, 533
+heritag, 24
+heritag, 1562
+heritag, 1059
+heritag, 38
+heritag, 1066
+heritag, 557
+heritag, 1587
+heritag, 566
+heritag, 57
+heritag, 58
+heritag, 1594
+heritag, 2111
+heritag, 1600
+heritag, 65
+heritag, 1090
+heritag, 2114
+heritag, 1096
+heritag, 2120
+heritag, 75
+heritag, 80
+heritag, 1105
+heritag, 82
+heritag, 83
+heritag, 84
+heritag, 88
+heritag, 94
+heritag, 97
+heritag, 2145
+heritag, 611
+heritag, 612
+heritag, 1127
+heritag, 2151
+heritag, 626
+heritag, 1650
+heritag, 1142
+heritag, 124
+heritag, 1153
+heritag, 134
+heritag, 646
+heritag, 647
+heritag, 650
+heritag, 1177
+heritag, 155
+heritag, 670
+heritag, 1694
+heritag, 161
+heritag, 673
+heritag, 1194
+heritag, 171
+heritag, 173
+heritag, 174
+heritag, 1201
+heritag, 183
+heritag, 695
+heritag, 185
+heritag, 190
+heritag, 1733
+heritag, 720
+heritag, 215
+heritag, 218
+heritag, 739
+heritag, 1775
+heritag, 1264
+heritag, 242
+heritag, 1780
+heritag, 245
+heritag, 247
+heritag, 760
+heritag, 248
+heritag, 1271
+heritag, 256
+heritag, 1799
+heritag, 271
+heritag, 783
+heritag, 793
+heritag, 1306
+heritag, 795
+heritag, 796
+heritag, 797
+heritag, 798
+heritag, 1819
+heritag, 1822
+heritag, 1825
+heritag, 290
+heritag, 291
+heritag, 299
+heritag, 1329
+heritag, 1330
+heritag, 1343
+heritag, 833
+heritag, 1346
+heritag, 846
+heritag, 850
+heritag, 852
+heritag, 346
+heritag, 1889
+heritag, 359
+heritag, 871
+heritag, 874
+heritag, 875
+heritag, 1392
+heritag, 1914
+heritag, 1404
+heritag, 1923
+heritag, 390
+heritag, 904
+heritag, 1928
+heritag, 1936
+heritag, 920
+heritag, 1441
+heritag, 935
+heritag, 942
+heritag, 943
+heritag, 1967
+heritag, 434
+heritag, 947
+heritag, 1978
+heritag, 444
+heritag, 1991
+heritag, 458
+heritag, 1484
+heritag, 1485
+heritag, 974
+heritag, 1487
+heritag, 467
+heritag, 2010
+heritag, 475
+heritag, 2012
+heritag, 996
+heritag, 490
+heritag, 2037
+heritag, 1017
+heritag, 1018
+heritag, 1022
+wonder, 1
+wonder, 513
+wonder, 1030
+wonder, 6
+wonder, 1032
+wonder, 1547
+wonder, 1551
+wonder, 1553
+wonder, 18
+wonder, 19
+wonder, 2067
+wonder, 22
+wonder, 536
+wonder, 2073
+wonder, 2075
+wonder, 2076
+wonder, 546
+wonder, 547
+wonder, 36
+wonder, 1060
+wonder, 1571
+wonder, 2084
+wonder, 555
+wonder, 2095
+wonder, 2101
+wonder, 2106
+wonder, 1601
+wonder, 2113
+wonder, 1095
+wonder, 1607
+wonder, 1097
+wonder, 1100
+wonder, 2124
+wonder, 2130
+wonder, 1108
+wonder, 1622
+wonder, 1633
+wonder, 2145
+wonder, 612
+wonder, 618
+wonder, 619
+wonder, 620
+wonder, 1132
+wonder, 1642
+wonder, 2154
+wonder, 117
+wonder, 1142
+wonder, 631
+wonder, 1656
+wonder, 124
+wonder, 136
+wonder, 137
+wonder, 1672
+wonder, 1165
+wonder, 655
+wonder, 1169
+wonder, 1175
+wonder, 1687
+wonder, 1180
+wonder, 1181
+wonder, 670
+wonder, 673
+wonder, 675
+wonder, 1700
+wonder, 1708
+wonder, 1197
+wonder, 687
+wonder, 1202
+wonder, 179
+wonder, 1204
+wonder, 693
+wonder, 187
+wonder, 1724
+wonder, 1729
+wonder, 196
+wonder, 1747
+wonder, 218
+wonder, 738
+wonder, 1764
+wonder, 1253
+wonder, 233
+wonder, 1775
+wonder, 241
+wonder, 1265
+wonder, 756
+wonder, 759
+wonder, 247
+wonder, 252
+wonder, 253
+wonder, 254
+wonder, 769
+wonder, 1282
+wonder, 771
+wonder, 1286
+wonder, 783
+wonder, 1298
+wonder, 787
+wonder, 790
+wonder, 1823
+wonder, 291
+wonder, 292
+wonder, 295
+wonder, 1832
+wonder, 1321
+wonder, 303
+wonder, 304
+wonder, 305
+wonder, 1329
+wonder, 1842
+wonder, 309
+wonder, 1848
+wonder, 825
+wonder, 1849
+wonder, 315
+wonder, 827
+wonder, 326
+wonder, 842
+wonder, 843
+wonder, 1359
+wonder, 337
+wonder, 1878
+wonder, 1367
+wonder, 348
+wonder, 354
+wonder, 1378
+wonder, 1380
+wonder, 1381
+wonder, 1383
+wonder, 1384
+wonder, 1902
+wonder, 368
+wonder, 892
+wonder, 898
+wonder, 901
+wonder, 1928
+wonder, 1931
+wonder, 399
+wonder, 912
+wonder, 1427
+wonder, 1428
+wonder, 917
+wonder, 1430
+wonder, 409
+wonder, 1946
+wonder, 412
+wonder, 924
+wonder, 1950
+wonder, 1954
+wonder, 1444
+wonder, 933
+wonder, 1445
+wonder, 939
+wonder, 940
+wonder, 1457
+wonder, 1969
+wonder, 1461
+wonder, 1462
+wonder, 1979
+wonder, 1468
+wonder, 1985
+wonder, 970
+wonder, 463
+wonder, 975
+wonder, 2000
+wonder, 472
+wonder, 473
+wonder, 478
+wonder, 480
+wonder, 488
+wonder, 1001
+wonder, 1002
+wonder, 1005
+wonder, 2030
+wonder, 1010
+wonder, 1012
+wonder, 2047
+natur, 2056
+natur, 2057
+natur, 2058
+natur, 2060
+natur, 17
+natur, 18
+natur, 2065
+natur, 2066
+natur, 2068
+natur, 23
+natur, 2073
+natur, 26
+natur, 2075
+natur, 27
+natur, 2077
+natur, 2079
+natur, 37
+natur, 44
+natur, 2095
+natur, 2099
+natur, 2101
+natur, 56
+natur, 2104
+natur, 2105
+natur, 61
+natur, 63
+natur, 2124
+natur, 77
+natur, 2128
+natur, 2129
+natur, 2130
+natur, 2135
+natur, 2137
+natur, 90
+natur, 2144
+natur, 97
+natur, 2145
+natur, 2152
+natur, 106
+natur, 2154
+natur, 2155
+natur, 111
+natur, 117
+natur, 124
+natur, 126
+natur, 129
+natur, 133
+natur, 137
+natur, 138
+natur, 146
+natur, 154
+natur, 155
+natur, 174
+natur, 179
+natur, 181
+natur, 187
+natur, 189
+natur, 190
+natur, 200
+natur, 201
+natur, 205
+natur, 210
+natur, 227
+natur, 232
+natur, 234
+natur, 235
+natur, 236
+natur, 237
+natur, 238
+natur, 240
+natur, 241
+natur, 250
+natur, 252
+natur, 253
+natur, 254
+natur, 256
+natur, 257
+natur, 261
+natur, 263
+natur, 268
+natur, 274
+natur, 278
+natur, 280
+natur, 281
+natur, 288
+natur, 290
+natur, 291
+natur, 292
+natur, 305
+natur, 310
+natur, 322
+natur, 326
+natur, 329
+natur, 336
+natur, 337
+natur, 339
+natur, 344
+natur, 345
+natur, 352
+natur, 361
+natur, 363
+natur, 365
+natur, 370
+natur, 373
+natur, 380
+natur, 389
+natur, 391
+natur, 393
+natur, 394
+natur, 399
+natur, 405
+natur, 406
+natur, 410
+natur, 415
+natur, 419
+natur, 421
+natur, 426
+natur, 432
+natur, 433
+natur, 437
+natur, 444
+natur, 454
+natur, 455
+natur, 469
+natur, 471
+natur, 477
+natur, 478
+natur, 480
+natur, 483
+natur, 489
+natur, 490
+natur, 513
+natur, 523
+natur, 531
+natur, 532
+natur, 544
+natur, 546
+natur, 547
+natur, 556
+natur, 559
+natur, 563
+natur, 571
+natur, 576
+natur, 579
+natur, 603
+natur, 613
+natur, 618
+natur, 619
+natur, 626
+natur, 643
+natur, 652
+natur, 655
+natur, 658
+natur, 680
+natur, 682
+natur, 688
+natur, 695
+natur, 696
+natur, 700
+natur, 701
+natur, 703
+natur, 704
+natur, 711
+natur, 713
+natur, 717
+natur, 726
+natur, 728
+natur, 729
+natur, 732
+natur, 733
+natur, 735
+natur, 737
+natur, 739
+natur, 741
+natur, 753
+natur, 754
+natur, 756
+natur, 757
+natur, 762
+natur, 766
+natur, 769
+natur, 770
+natur, 771
+natur, 772
+natur, 779
+natur, 780
+natur, 783
+natur, 784
+natur, 785
+natur, 791
+natur, 793
+natur, 796
+natur, 803
+natur, 806
+natur, 809
+natur, 812
+natur, 815
+natur, 821
+natur, 836
+natur, 837
+natur, 842
+natur, 843
+natur, 846
+natur, 847
+natur, 849
+natur, 850
+natur, 851
+natur, 857
+natur, 858
+natur, 872
+natur, 877
+natur, 883
+natur, 888
+natur, 892
+natur, 896
+natur, 903
+natur, 914
+natur, 918
+natur, 922
+natur, 924
+natur, 925
+natur, 927
+natur, 930
+natur, 933
+natur, 937
+natur, 939
+natur, 941
+natur, 942
+natur, 958
+natur, 963
+natur, 966
+natur, 969
+natur, 975
+natur, 976
+natur, 978
+natur, 984
+natur, 997
+natur, 1002
+natur, 1004
+natur, 1005
+natur, 1009
+natur, 1019
+natur, 1030
+natur, 1032
+natur, 1039
+natur, 1046
+natur, 1047
+natur, 1060
+natur, 1067
+natur, 1070
+natur, 1094
+natur, 1100
+natur, 1109
+natur, 1110
+natur, 1112
+natur, 1136
+natur, 1138
+natur, 1155
+natur, 1160
+natur, 1165
+natur, 1167
+natur, 1168
+natur, 1176
+natur, 1180
+natur, 1186
+natur, 1196
+natur, 1202
+natur, 1214
+natur, 1215
+natur, 1222
+natur, 1231
+natur, 1236
+natur, 1247
+natur, 1251
+natur, 1252
+natur, 1265
+natur, 1268
+natur, 1272
+natur, 1276
+natur, 1282
+natur, 1283
+natur, 1284
+natur, 1285
+natur, 1286
+natur, 1292
+natur, 1298
+natur, 1301
+natur, 1307
+natur, 1321
+natur, 1323
+natur, 1329
+natur, 1330
+natur, 1341
+natur, 1349
+natur, 1350
+natur, 1352
+natur, 1368
+natur, 1381
+natur, 1384
+natur, 1390
+natur, 1391
+natur, 1412
+natur, 1414
+natur, 1427
+natur, 1428
+natur, 1445
+natur, 1449
+natur, 1450
+natur, 1457
+natur, 1468
+natur, 1474
+natur, 1479
+natur, 1496
+natur, 1503
+natur, 1508
+natur, 1519
+natur, 1526
+natur, 1534
+natur, 1539
+natur, 1549
+natur, 1551
+natur, 1553
+natur, 1563
+natur, 1573
+natur, 1579
+natur, 1583
+natur, 1589
+natur, 1592
+natur, 1600
+natur, 1601
+natur, 1610
+natur, 1631
+natur, 1632
+natur, 1633
+natur, 1650
+natur, 1661
+natur, 1663
+natur, 1664
+natur, 1667
+natur, 1668
+natur, 1674
+natur, 1678
+natur, 1685
+natur, 1687
+natur, 1696
+natur, 1700
+natur, 1708
+natur, 1718
+natur, 1729
+natur, 1733
+natur, 1735
+natur, 1740
+natur, 1741
+natur, 1742
+natur, 1750
+natur, 1757
+natur, 1764
+natur, 1765
+natur, 1768
+natur, 1771
+natur, 1774
+natur, 1775
+natur, 1779
+natur, 1781
+natur, 1785
+natur, 1789
+natur, 1790
+natur, 1791
+natur, 1797
+natur, 1798
+natur, 1799
+natur, 1800
+natur, 1809
+natur, 1815
+natur, 1818
+natur, 1829
+natur, 1834
+natur, 1835
+natur, 1837
+natur, 1838
+natur, 1841
+natur, 1844
+natur, 1846
+natur, 1847
+natur, 1848
+natur, 1852
+natur, 1863
+natur, 1864
+natur, 1867
+natur, 1875
+natur, 1878
+natur, 1883
+natur, 1896
+natur, 1900
+natur, 1902
+natur, 1903
+natur, 1904
+natur, 1907
+natur, 1912
+natur, 1913
+natur, 1928
+natur, 1929
+natur, 1930
+natur, 1932
+natur, 1938
+natur, 1939
+natur, 1941
+natur, 1942
+natur, 1945
+natur, 1950
+natur, 1951
+natur, 1952
+natur, 1953
+natur, 1954
+natur, 1955
+natur, 1960
+natur, 1961
+natur, 1963
+natur, 1966
+natur, 1968
+natur, 1969
+natur, 1972
+natur, 1978
+natur, 1981
+natur, 1985
+natur, 1997
+natur, 1999
+natur, 2000
+natur, 2001
+natur, 2002
+natur, 2006
+natur, 2008
+natur, 2025
+natur, 2028
+natur, 2034
+natur or wonder, 1030
+natur or wonder, 2056
+natur or wonder, 2057
+natur or wonder, 2058
+natur or wonder, 1032
+natur or wonder, 2060
+natur or wonder, 1039
+natur or wonder, 17
+natur or wonder, 18
+natur or wonder, 2065
+natur or wonder, 2066
+natur or wonder, 2068
+natur or wonder, 1046
+natur or wonder, 23
+natur or wonder, 1047
+natur or wonder, 2073
+natur or wonder, 26
+natur or wonder, 27
+natur or wonder, 2075
+natur or wonder, 2077
+natur or wonder, 2079
+natur or wonder, 1060
+natur or wonder, 37
+natur or wonder, 1067
+natur or wonder, 44
+natur or wonder, 1070
+natur or wonder, 2095
+natur or wonder, 2099
+natur or wonder, 2101
+natur or wonder, 56
+natur or wonder, 2104
+natur or wonder, 2105
+natur or wonder, 61
+natur or wonder, 63
+natur or wonder, 1094
+natur or wonder, 2124
+natur or wonder, 77
+natur or wonder, 1100
+natur or wonder, 2128
+natur or wonder, 2129
+natur or wonder, 2130
+natur or wonder, 1109
+natur or wonder, 1110
+natur or wonder, 2135
+natur or wonder, 1112
+natur or wonder, 2137
+natur or wonder, 90
+natur or wonder, 2144
+natur or wonder, 97
+natur or wonder, 2145
+natur or wonder, 2152
+natur or wonder, 106
+natur or wonder, 2154
+natur or wonder, 2155
+natur or wonder, 111
+natur or wonder, 1136
+natur or wonder, 1138
+natur or wonder, 117
+natur or wonder, 124
+natur or wonder, 126
+natur or wonder, 129
+natur or wonder, 1155
+natur or wonder, 133
+natur or wonder, 1160
+natur or wonder, 137
+natur or wonder, 138
+natur or wonder, 1165
+natur or wonder, 1167
+natur or wonder, 1168
+natur or wonder, 146
+natur or wonder, 1176
+natur or wonder, 154
+natur or wonder, 155
+natur or wonder, 1180
+natur or wonder, 1186
+natur or wonder, 1196
+natur or wonder, 174
+natur or wonder, 1202
+natur or wonder, 179
+natur or wonder, 181
+natur or wonder, 187
+natur or wonder, 189
+natur or wonder, 190
+natur or wonder, 1214
+natur or wonder, 1215
+natur or wonder, 1222
+natur or wonder, 200
+natur or wonder, 201
+natur or wonder, 205
+natur or wonder, 1231
+natur or wonder, 210
+natur or wonder, 1236
+natur or wonder, 1247
+natur or wonder, 227
+natur or wonder, 1251
+natur or wonder, 1252
+natur or wonder, 232
+natur or wonder, 234
+natur or wonder, 235
+natur or wonder, 236
+natur or wonder, 237
+natur or wonder, 238
+natur or wonder, 240
+natur or wonder, 241
+natur or wonder, 1265
+natur or wonder, 1268
+natur or wonder, 1272
+natur or wonder, 250
+natur or wonder, 252
+natur or wonder, 253
+natur or wonder, 254
+natur or wonder, 1276
+natur or wonder, 256
+natur or wonder, 257
+natur or wonder, 1282
+natur or wonder, 1283
+natur or wonder, 1284
+natur or wonder, 261
+natur or wonder, 1285
+natur or wonder, 263
+natur or wonder, 1286
+natur or wonder, 268
+natur or wonder, 1292
+natur or wonder, 274
+natur or wonder, 1298
+natur or wonder, 1301
+natur or wonder, 278
+natur or wonder, 280
+natur or wonder, 281
+natur or wonder, 1307
+natur or wonder, 288
+natur or wonder, 290
+natur or wonder, 291
+natur or wonder, 292
+natur or wonder, 1321
+natur or wonder, 1323
+natur or wonder, 305
+natur or wonder, 1329
+natur or wonder, 1330
+natur or wonder, 310
+natur or wonder, 1341
+natur or wonder, 322
+natur or wonder, 1349
+natur or wonder, 326
+natur or wonder, 1350
+natur or wonder, 1352
+natur or wonder, 329
+natur or wonder, 336
+natur or wonder, 337
+natur or wonder, 339
+natur or wonder, 344
+natur or wonder, 345
+natur or wonder, 1368
+natur or wonder, 352
+natur or wonder, 1381
+natur or wonder, 1384
+natur or wonder, 361
+natur or wonder, 363
+natur or wonder, 365
+natur or wonder, 1390
+natur or wonder, 1391
+natur or wonder, 370
+natur or wonder, 373
+natur or wonder, 380
+natur or wonder, 1412
+natur or wonder, 389
+natur or wonder, 1414
+natur or wonder, 391
+natur or wonder, 393
+natur or wonder, 394
+natur or wonder, 399
+natur or wonder, 1427
+natur or wonder, 1428
+natur or wonder, 405
+natur or wonder, 406
+natur or wonder, 410
+natur or wonder, 415
+natur or wonder, 419
+natur or wonder, 421
+natur or wonder, 1445
+natur or wonder, 1449
+natur or wonder, 426
+natur or wonder, 1450
+natur or wonder, 432
+natur or wonder, 433
+natur or wonder, 1457
+natur or wonder, 437
+natur or wonder, 444
+natur or wonder, 1468
+natur or wonder, 1474
+natur or wonder, 454
+natur or wonder, 455
+natur or wonder, 1479
+natur or wonder, 469
+natur or wonder, 471
+natur or wonder, 1496
+natur or wonder, 477
+natur or wonder, 478
+natur or wonder, 1503
+natur or wonder, 480
+natur or wonder, 483
+natur or wonder, 1508
+natur or wonder, 489
+natur or wonder, 490
+natur or wonder, 1519
+natur or wonder, 1526
+natur or wonder, 1534
+natur or wonder, 513
+natur or wonder, 1539
+natur or wonder, 523
+natur or wonder, 1549
+natur or wonder, 1551
+natur or wonder, 1553
+natur or wonder, 531
+natur or wonder, 532
+natur or wonder, 1563
+natur or wonder, 544
+natur or wonder, 546
+natur or wonder, 547
+natur or wonder, 1573
+natur or wonder, 1579
+natur or wonder, 556
+natur or wonder, 559
+natur or wonder, 1583
+natur or wonder, 563
+natur or wonder, 1589
+natur or wonder, 1592
+natur or wonder, 571
+natur or wonder, 576
+natur or wonder, 1600
+natur or wonder, 1601
+natur or wonder, 579
+natur or wonder, 1610
+natur or wonder, 603
+natur or wonder, 1631
+natur or wonder, 1632
+natur or wonder, 1633
+natur or wonder, 613
+natur or wonder, 618
+natur or wonder, 619
+natur or wonder, 626
+natur or wonder, 1650
+natur or wonder, 1661
+natur or wonder, 1663
+natur or wonder, 1664
+natur or wonder, 643
+natur or wonder, 1667
+natur or wonder, 1668
+natur or wonder, 1674
+natur or wonder, 652
+natur or wonder, 1678
+natur or wonder, 655
+natur or wonder, 658
+natur or wonder, 1685
+natur or wonder, 1687
+natur or wonder, 1696
+natur or wonder, 1700
+natur or wonder, 680
+natur or wonder, 682
+natur or wonder, 1708
+natur or wonder, 688
+natur or wonder, 1718
+natur or wonder, 695
+natur or wonder, 696
+natur or wonder, 700
+natur or wonder, 701
+natur or wonder, 703
+natur or wonder, 704
+natur or wonder, 1729
+natur or wonder, 1733
+natur or wonder, 711
+natur or wonder, 1735
+natur or wonder, 713
+natur or wonder, 1740
+natur or wonder, 717
+natur or wonder, 1741
+natur or wonder, 1742
+natur or wonder, 726
+natur or wonder, 1750
+natur or wonder, 728
+natur or wonder, 729
+natur or wonder, 732
+natur or wonder, 733
+natur or wonder, 1757
+natur or wonder, 735
+natur or wonder, 737
+natur or wonder, 739
+natur or wonder, 1764
+natur or wonder, 741
+natur or wonder, 1765
+natur or wonder, 1768
+natur or wonder, 1771
+natur or wonder, 1774
+natur or wonder, 1775
+natur or wonder, 753
+natur or wonder, 754
+natur or wonder, 1779
+natur or wonder, 756
+natur or wonder, 757
+natur or wonder, 1781
+natur or wonder, 1785
+natur or wonder, 762
+natur or wonder, 1789
+natur or wonder, 766
+natur or wonder, 1790
+natur or wonder, 1791
+natur or wonder, 769
+natur or wonder, 770
+natur or wonder, 771
+natur or wonder, 772
+natur or wonder, 1797
+natur or wonder, 1798
+natur or wonder, 1799
+natur or wonder, 1800
+natur or wonder, 779
+natur or wonder, 780
+natur or wonder, 783
+natur or wonder, 784
+natur or wonder, 785
+natur or wonder, 1809
+natur or wonder, 791
+natur or wonder, 1815
+natur or wonder, 793
+natur or wonder, 1818
+natur or wonder, 796
+natur or wonder, 803
+natur or wonder, 1829
+natur or wonder, 806
+natur or wonder, 809
+natur or wonder, 1834
+natur or wonder, 1835
+natur or wonder, 812
+natur or wonder, 1837
+natur or wonder, 1838
+natur or wonder, 815
+natur or wonder, 1841
+natur or wonder, 1844
+natur or wonder, 821
+natur or wonder, 1846
+natur or wonder, 1847
+natur or wonder, 1848
+natur or wonder, 1852
+natur or wonder, 836
+natur or wonder, 837
+natur or wonder, 1863
+natur or wonder, 1864
+natur or wonder, 842
+natur or wonder, 843
+natur or wonder, 1867
+natur or wonder, 846
+natur or wonder, 847
+natur or wonder, 849
+natur or wonder, 850
+natur or wonder, 851
+natur or wonder, 1875
+natur or wonder, 1878
+natur or wonder, 857
+natur or wonder, 858
+natur or wonder, 1883
+natur or wonder, 872
+natur or wonder, 1896
+natur or wonder, 1900
+natur or wonder, 877
+natur or wonder, 1902
+natur or wonder, 1903
+natur or wonder, 1904
+natur or wonder, 883
+natur or wonder, 1907
+natur or wonder, 888
+natur or wonder, 1912
+natur or wonder, 1913
+natur or wonder, 892
+natur or wonder, 896
+natur or wonder, 903
+natur or wonder, 1928
+natur or wonder, 1929
+natur or wonder, 1930
+natur or wonder, 1932
+natur or wonder, 914
+natur or wonder, 1938
+natur or wonder, 1939
+natur or wonder, 1941
+natur or wonder, 918
+natur or wonder, 1942
+natur or wonder, 1945
+natur or wonder, 922
+natur or wonder, 924
+natur or wonder, 925
+natur or wonder, 1950
+natur or wonder, 927
+natur or wonder, 1951
+natur or wonder, 1952
+natur or wonder, 930
+natur or wonder, 1953
+natur or wonder, 1954
+natur or wonder, 933
+natur or wonder, 1955
+natur or wonder, 1960
+natur or wonder, 937
+natur or wonder, 1961
+natur or wonder, 939
+natur or wonder, 1963
+natur or wonder, 941
+natur or wonder, 942
+natur or wonder, 1966
+natur or wonder, 1968
+natur or wonder, 1969
+natur or wonder, 1972
+natur or wonder, 1978
+natur or wonder, 1981
+natur or wonder, 958
+natur or wonder, 1985
+natur or wonder, 963
+natur or wonder, 966
+natur or wonder, 969
+natur or wonder, 1997
+natur or wonder, 975
+natur or wonder, 976
+natur or wonder, 1999
+natur or wonder, 978
+natur or wonder, 2000
+natur or wonder, 2001
+natur or wonder, 2002
+natur or wonder, 2006
+natur or wonder, 984
+natur or wonder, 2008
+natur or wonder, 997
+natur or wonder, 2025
+natur or wonder, 1002
+natur or wonder, 1004
+natur or wonder, 1005
+natur or wonder, 2028
+natur or wonder, 1009
+natur or wonder, 2034
+natur or wonder, 1019
+natur and not wonder, 1030
+natur and not wonder, 2056
+natur and not wonder, 2057
+natur and not wonder, 2058
+natur and not wonder, 1032
+natur and not wonder, 2060
+natur and not wonder, 1039
+natur and not wonder, 17
+natur and not wonder, 18
+natur and not wonder, 2065
+natur and not wonder, 2066
+natur and not wonder, 2068
+natur and not wonder, 1046
+natur and not wonder, 23
+natur and not wonder, 1047
+natur and not wonder, 2073
+natur and not wonder, 26
+natur and not wonder, 27
+natur and not wonder, 2075
+natur and not wonder, 2077
+natur and not wonder, 2079
+natur and not wonder, 1060
+natur and not wonder, 37
+natur and not wonder, 1067
+natur and not wonder, 44
+natur and not wonder, 1070
+natur and not wonder, 2095
+natur and not wonder, 2099
+natur and not wonder, 2101
+natur and not wonder, 56
+natur and not wonder, 2104
+natur and not wonder, 2105
+natur and not wonder, 61
+natur and not wonder, 63
+natur and not wonder, 1094
+natur and not wonder, 2124
+natur and not wonder, 77
+natur and not wonder, 1100
+natur and not wonder, 2128
+natur and not wonder, 2129
+natur and not wonder, 2130
+natur and not wonder, 1109
+natur and not wonder, 1110
+natur and not wonder, 2135
+natur and not wonder, 1112
+natur and not wonder, 2137
+natur and not wonder, 90
+natur and not wonder, 2144
+natur and not wonder, 97
+natur and not wonder, 2145
+natur and not wonder, 2152
+natur and not wonder, 106
+natur and not wonder, 2154
+natur and not wonder, 2155
+natur and not wonder, 111
+natur and not wonder, 1136
+natur and not wonder, 1138
+natur and not wonder, 117
+natur and not wonder, 124
+natur and not wonder, 126
+natur and not wonder, 129
+natur and not wonder, 1155
+natur and not wonder, 133
+natur and not wonder, 1160
+natur and not wonder, 137
+natur and not wonder, 138
+natur and not wonder, 1165
+natur and not wonder, 1167
+natur and not wonder, 1168
+natur and not wonder, 146
+natur and not wonder, 1176
+natur and not wonder, 154
+natur and not wonder, 155
+natur and not wonder, 1180
+natur and not wonder, 1186
+natur and not wonder, 1196
+natur and not wonder, 174
+natur and not wonder, 1202
+natur and not wonder, 179
+natur and not wonder, 181
+natur and not wonder, 187
+natur and not wonder, 189
+natur and not wonder, 190
+natur and not wonder, 1214
+natur and not wonder, 1215
+natur and not wonder, 1222
+natur and not wonder, 200
+natur and not wonder, 201
+natur and not wonder, 205
+natur and not wonder, 1231
+natur and not wonder, 210
+natur and not wonder, 1236
+natur and not wonder, 1247
+natur and not wonder, 227
+natur and not wonder, 1251
+natur and not wonder, 1252
+natur and not wonder, 232
+natur and not wonder, 234
+natur and not wonder, 235
+natur and not wonder, 236
+natur and not wonder, 237
+natur and not wonder, 238
+natur and not wonder, 240
+natur and not wonder, 241
+natur and not wonder, 1265
+natur and not wonder, 1268
+natur and not wonder, 1272
+natur and not wonder, 250
+natur and not wonder, 252
+natur and not wonder, 253
+natur and not wonder, 254
+natur and not wonder, 1276
+natur and not wonder, 256
+natur and not wonder, 257
+natur and not wonder, 1282
+natur and not wonder, 1283
+natur and not wonder, 1284
+natur and not wonder, 261
+natur and not wonder, 1285
+natur and not wonder, 263
+natur and not wonder, 1286
+natur and not wonder, 268
+natur and not wonder, 1292
+natur and not wonder, 274
+natur and not wonder, 1298
+natur and not wonder, 1301
+natur and not wonder, 278
+natur and not wonder, 280
+natur and not wonder, 281
+natur and not wonder, 1307
+natur and not wonder, 288
+natur and not wonder, 290
+natur and not wonder, 291
+natur and not wonder, 292
+natur and not wonder, 1321
+natur and not wonder, 1323
+natur and not wonder, 305
+natur and not wonder, 1329
+natur and not wonder, 1330
+natur and not wonder, 310
+natur and not wonder, 1341
+natur and not wonder, 322
+natur and not wonder, 1349
+natur and not wonder, 326
+natur and not wonder, 1350
+natur and not wonder, 1352
+natur and not wonder, 329
+natur and not wonder, 336
+natur and not wonder, 337
+natur and not wonder, 339
+natur and not wonder, 344
+natur and not wonder, 345
+natur and not wonder, 1368
+natur and not wonder, 352
+natur and not wonder, 1381
+natur and not wonder, 1384
+natur and not wonder, 361
+natur and not wonder, 363
+natur and not wonder, 365
+natur and not wonder, 1390
+natur and not wonder, 1391
+natur and not wonder, 370
+natur and not wonder, 373
+natur and not wonder, 380
+natur and not wonder, 1412
+natur and not wonder, 389
+natur and not wonder, 1414
+natur and not wonder, 391
+natur and not wonder, 393
+natur and not wonder, 394
+natur and not wonder, 399
+natur and not wonder, 1427
+natur and not wonder, 1428
+natur and not wonder, 405
+natur and not wonder, 406
+natur and not wonder, 410
+natur and not wonder, 415
+natur and not wonder, 419
+natur and not wonder, 421
+natur and not wonder, 1445
+natur and not wonder, 1449
+natur and not wonder, 426
+natur and not wonder, 1450
+natur and not wonder, 432
+natur and not wonder, 433
+natur and not wonder, 1457
+natur and not wonder, 437
+natur and not wonder, 444
+natur and not wonder, 1468
+natur and not wonder, 1474
+natur and not wonder, 454
+natur and not wonder, 455
+natur and not wonder, 1479
+natur and not wonder, 469
+natur and not wonder, 471
+natur and not wonder, 1496
+natur and not wonder, 477
+natur and not wonder, 478
+natur and not wonder, 1503
+natur and not wonder, 480
+natur and not wonder, 483
+natur and not wonder, 1508
+natur and not wonder, 489
+natur and not wonder, 490
+natur and not wonder, 1519
+natur and not wonder, 1526
+natur and not wonder, 1534
+natur and not wonder, 513
+natur and not wonder, 1539
+natur and not wonder, 523
+natur and not wonder, 1549
+natur and not wonder, 1551
+natur and not wonder, 1553
+natur and not wonder, 531
+natur and not wonder, 532
+natur and not wonder, 1563
+natur and not wonder, 544
+natur and not wonder, 546
+natur and not wonder, 547
+natur and not wonder, 1573
+natur and not wonder, 1579
+natur and not wonder, 556
+natur and not wonder, 559
+natur and not wonder, 1583
+natur and not wonder, 563
+natur and not wonder, 1589
+natur and not wonder, 1592
+natur and not wonder, 571
+natur and not wonder, 576
+natur and not wonder, 1600
+natur and not wonder, 1601
+natur and not wonder, 579
+natur and not wonder, 1610
+natur and not wonder, 603
+natur and not wonder, 1631
+natur and not wonder, 1632
+natur and not wonder, 1633
+natur and not wonder, 613
+natur and not wonder, 618
+natur and not wonder, 619
+natur and not wonder, 626
+natur and not wonder, 1650
+natur and not wonder, 1661
+natur and not wonder, 1663
+natur and not wonder, 1664
+natur and not wonder, 643
+natur and not wonder, 1667
+natur and not wonder, 1668
+natur and not wonder, 1674
+natur and not wonder, 652
+natur and not wonder, 1678
+natur and not wonder, 655
+natur and not wonder, 658
+natur and not wonder, 1685
+natur and not wonder, 1687
+natur and not wonder, 1696
+natur and not wonder, 1700
+natur and not wonder, 680
+natur and not wonder, 682
+natur and not wonder, 1708
+natur and not wonder, 688
+natur and not wonder, 1718
+natur and not wonder, 695
+natur and not wonder, 696
+natur and not wonder, 700
+natur and not wonder, 701
+natur and not wonder, 703
+natur and not wonder, 704
+natur and not wonder, 1729
+natur and not wonder, 1733
+natur and not wonder, 711
+natur and not wonder, 1735
+natur and not wonder, 713
+natur and not wonder, 1740
+natur and not wonder, 717
+natur and not wonder, 1741
+natur and not wonder, 1742
+natur and not wonder, 726
+natur and not wonder, 1750
+natur and not wonder, 728
+natur and not wonder, 729
+natur and not wonder, 732
+natur and not wonder, 733
+natur and not wonder, 1757
+natur and not wonder, 735
+natur and not wonder, 737
+natur and not wonder, 739
+natur and not wonder, 1764
+natur and not wonder, 741
+natur and not wonder, 1765
+natur and not wonder, 1768
+natur and not wonder, 1771
+natur and not wonder, 1774
+natur and not wonder, 1775
+natur and not wonder, 753
+natur and not wonder, 754
+natur and not wonder, 1779
+natur and not wonder, 756
+natur and not wonder, 757
+natur and not wonder, 1781
+natur and not wonder, 1785
+natur and not wonder, 762
+natur and not wonder, 1789
+natur and not wonder, 766
+natur and not wonder, 1790
+natur and not wonder, 1791
+natur and not wonder, 769
+natur and not wonder, 770
+natur and not wonder, 771
+natur and not wonder, 772
+natur and not wonder, 1797
+natur and not wonder, 1798
+natur and not wonder, 1799
+natur and not wonder, 1800
+natur and not wonder, 779
+natur and not wonder, 780
+natur and not wonder, 783
+natur and not wonder, 784
+natur and not wonder, 785
+natur and not wonder, 1809
+natur and not wonder, 791
+natur and not wonder, 1815
+natur and not wonder, 793
+natur and not wonder, 1818
+natur and not wonder, 796
+natur and not wonder, 803
+natur and not wonder, 1829
+natur and not wonder, 806
+natur and not wonder, 809
+natur and not wonder, 1834
+natur and not wonder, 1835
+natur and not wonder, 812
+natur and not wonder, 1837
+natur and not wonder, 1838
+natur and not wonder, 815
+natur and not wonder, 1841
+natur and not wonder, 1844
+natur and not wonder, 821
+natur and not wonder, 1846
+natur and not wonder, 1847
+natur and not wonder, 1848
+natur and not wonder, 1852
+natur and not wonder, 836
+natur and not wonder, 837
+natur and not wonder, 1863
+natur and not wonder, 1864
+natur and not wonder, 842
+natur and not wonder, 843
+natur and not wonder, 1867
+natur and not wonder, 846
+natur and not wonder, 847
+natur and not wonder, 849
+natur and not wonder, 850
+natur and not wonder, 851
+natur and not wonder, 1875
+natur and not wonder, 1878
+natur and not wonder, 857
+natur and not wonder, 858
+natur and not wonder, 1883
+natur and not wonder, 872
+natur and not wonder, 1896
+natur and not wonder, 1900
+natur and not wonder, 877
+natur and not wonder, 1902
+natur and not wonder, 1903
+natur and not wonder, 1904
+natur and not wonder, 883
+natur and not wonder, 1907
+natur and not wonder, 888
+natur and not wonder, 1912
+natur and not wonder, 1913
+natur and not wonder, 892
+natur and not wonder, 896
+natur and not wonder, 903
+natur and not wonder, 1928
+natur and not wonder, 1929
+natur and not wonder, 1930
+natur and not wonder, 1932
+natur and not wonder, 914
+natur and not wonder, 1938
+natur and not wonder, 1939
+natur and not wonder, 1941
+natur and not wonder, 918
+natur and not wonder, 1942
+natur and not wonder, 1945
+natur and not wonder, 922
+natur and not wonder, 924
+natur and not wonder, 925
+natur and not wonder, 1950
+natur and not wonder, 927
+natur and not wonder, 1951
+natur and not wonder, 1952
+natur and not wonder, 930
+natur and not wonder, 1953
+natur and not wonder, 1954
+natur and not wonder, 933
+natur and not wonder, 1955
+natur and not wonder, 1960
+natur and not wonder, 937
+natur and not wonder, 1961
+natur and not wonder, 939
+natur and not wonder, 1963
+natur and not wonder, 941
+natur and not wonder, 942
+natur and not wonder, 1966
+natur and not wonder, 1968
+natur and not wonder, 1969
+natur and not wonder, 1972
+natur and not wonder, 1978
+natur and not wonder, 1981
+natur and not wonder, 958
+natur and not wonder, 1985
+natur and not wonder, 963
+natur and not wonder, 966
+natur and not wonder, 969
+natur and not wonder, 1997
+natur and not wonder, 975
+natur and not wonder, 976
+natur and not wonder, 1999
+natur and not wonder, 978
+natur and not wonder, 2000
+natur and not wonder, 2001
+natur and not wonder, 2002
+natur and not wonder, 2006
+natur and not wonder, 984
+natur and not wonder, 2008
+natur and not wonder, 997
+natur and not wonder, 2025
+natur and not wonder, 1002
+natur and not wonder, 1004
+natur and not wonder, 1005
+natur and not wonder, 2028
+natur and not wonder, 1009
+natur and not wonder, 2034
+natur and not wonder, 1019
+ancient ruin, 740
+ancient ruin, 1384
+ancient ruin, 745
+ancient ruin, 1003
+ancient ruin, 1468
+ancient ruin, 1502
+ancient ruin, 2
+ancient ruin, 5
+ancient ruin, 1541
+ancient ruin, 1032
+ancient ruin, 912
+ancient ruin, 1044
+ancient ruin, 925
+ancient ruin, 1821
+ancient ruin, 1441
+ancient ruin, 2083
+ancient ruin, 934
+ancient ruin, 935
+ancient ruin, 2091
+ancient ruin, 940
+ancient ruin, 1464
+ancient ruin, 1468
+ancient ruin, 959
+ancient ruin, 448
+ancient ruin, 454
+ancient ruin, 456
+ancient ruin, 1998
+ancient ruin, 848
+ancient ruin, 89
+ancient ruin, 1502
+ancient ruin, 1248
+ancient ruin, 740
+ancient ruin, 1384
+ancient ruin, 745
+ancient ruin, 1003
+ancient ruin, 2038
+ancient ruin, 1019
+"nation park", 2048
+"nation park", 4
+"nation park", 2052
+"nation park", 6
+"nation park", 532
+"nation park", 2071
+"nation park", 2073
+"nation park", 544
+"nation park", 1568
+"nation park", 2043
+"nation park", 559
+"nation park", 2101
+"nation park", 54
+"nation park", 2106
+"nation park", 2144
+"nation park", 103
+"nation park", 105
+"nation park", 617
+"nation park", 2154
+"nation park", 2163
+"nation park", 655
+"nation park", 664
+"nation park", 154
+"nation park", 155
+"nation park", 667
+"nation park", 674
+"nation park", 164
+"nation park", 678
+"nation park", 168
+"nation park", 179
+"nation park", 691
+"nation park", 1204
+"nation park", 696
+"nation park", 188
+"nation park", 189
+"nation park", 190
+"nation park", 191
+"nation park", 192
+"nation park", 1213
+"nation park", 1214
+"nation park", 200
+"nation park", 716
+"nation park", 728
+"nation park", 730
+"nation park", 222
+"nation park", 1764
+"nation park", 234
+"nation park", 235
+"nation park", 237
+"nation park", 238
+"nation park", 1776
+"nation park", 243
+"nation park", 755
+"nation park", 247
+"nation park", 248
+"nation park", 1785
+"nation park", 252
+"nation park", 1789
+"nation park", 253
+"nation park", 1279
+"nation park", 257
+"nation park", 1801
+"nation park", 267
+"nation park", 1291
+"nation park", 783
+"nation park", 278
+"nation park", 1816
+"nation park", 282
+"nation park", 1820
+"nation park", 1821
+"nation park", 290
+"nation park", 803
+"nation park", 805
+"nation park", 810
+"nation park", 1330
+"nation park", 308
+"nation park", 312
+"nation park", 318
+"nation park", 324
+"nation park", 1350
+"nation park", 1870
+"nation park", 338
+"nation park", 339
+"nation park", 857
+"nation park", 360
+"nation park", 362
+"nation park", 1898
+"nation park", 1905
+"nation park", 371
+"nation park", 883
+"nation park", 374
+"nation park", 1923
+"nation park", 388
+"nation park", 393
+"nation park", 399
+"nation park", 1427
+"nation park", 1951
+"nation park", 931
+"nation park", 1967
+"nation park", 1971
+"nation park", 465
+"nation park", 2010
+"nation park", 2018
+"nation park", 2024
+"nation park", 1516
+"nation park", 495
+"nation park", 1531
+"nation park", 509
+"nation park", 2046
+"nation park" and wildlif, 2048
+"nation park" and wildlif, 257
+"nation park" and wildlif, 509
+"nation park" and wildlif, 4
+"nation park" and wildlif, 2052
+"nation park" and wildlif, 6
+"nation park" and wildlif, 1801
+"nation park" and wildlif, 267
+"nation park" and wildlif, 1291
+"nation park" and wildlif, 783
+"nation park" and wildlif, 532
+"nation park" and wildlif, 278
+"nation park" and wildlif, 2071
+"nation park" and wildlif, 1816
+"nation park" and wildlif, 2073
+"nation park" and wildlif, 282
+"nation park" and wildlif, 1531
+"nation park" and wildlif, 1820
+"nation park" and wildlif, 1821
+"nation park" and wildlif, 544
+"nation park" and wildlif, 1568
+"nation park" and wildlif, 290
+"nation park" and wildlif, 803
+"nation park" and wildlif, 805
+"nation park" and wildlif, 810
+"nation park" and wildlif, 559
+"nation park" and wildlif, 1330
+"nation park" and wildlif, 308
+"nation park" and wildlif, 2101
+"nation park" and wildlif, 54
+"nation park" and wildlif, 312
+"nation park" and wildlif, 2106
+"nation park" and wildlif, 318
+"nation park" and wildlif, 324
+"nation park" and wildlif, 1350
+"nation park" and wildlif, 1870
+"nation park" and wildlif, 338
+"nation park" and wildlif, 339
+"nation park" and wildlif, 857
+"nation park" and wildlif, 2144
+"nation park" and wildlif, 103
+"nation park" and wildlif, 360
+"nation park" and wildlif, 105
+"nation park" and wildlif, 617
+"nation park" and wildlif, 2154
+"nation park" and wildlif, 362
+"nation park" and wildlif, 1898
+"nation park" and wildlif, 1905
+"nation park" and wildlif, 2163
+"nation park" and wildlif, 371
+"nation park" and wildlif, 883
+"nation park" and wildlif, 374
+"nation park" and wildlif, 1923
+"nation park" and wildlif, 388
+"nation park" and wildlif, 393
+"nation park" and wildlif, 655
+"nation park" and wildlif, 399
+"nation park" and wildlif, 1427
+"nation park" and wildlif, 664
+"nation park" and wildlif, 154
+"nation park" and wildlif, 155
+"nation park" and wildlif, 667
+"nation park" and wildlif, 1951
+"nation park" and wildlif, 674
+"nation park" and wildlif, 931
+"nation park" and wildlif, 164
+"nation park" and wildlif, 678
+"nation park" and wildlif, 168
+"nation park" and wildlif, 1967
+"nation park" and wildlif, 179
+"nation park" and wildlif, 691
+"nation park" and wildlif, 1204
+"nation park" and wildlif, 1971
+"nation park" and wildlif, 696
+"nation park" and wildlif, 188
+"nation park" and wildlif, 189
+"nation park" and wildlif, 190
+"nation park" and wildlif, 191
+"nation park" and wildlif, 192
+"nation park" and wildlif, 1213
+"nation park" and wildlif, 1214
+"nation park" and wildlif, 200
+"nation park" and wildlif, 716
+"nation park" and wildlif, 465
+"nation park" and wildlif, 728
+"nation park" and wildlif, 730
+"nation park" and wildlif, 2010
+"nation park" and wildlif, 222
+"nation park" and wildlif, 253
+"nation park" and wildlif, 2018
+"nation park" and wildlif, 1764
+"nation park" and wildlif, 2024
+"nation park" and wildlif, 234
+"nation park" and wildlif, 235
+"nation park" and wildlif, 1516
+"nation park" and wildlif, 237
+"nation park" and wildlif, 238
+"nation park" and wildlif, 495
+"nation park" and wildlif, 1776
+"nation park" and wildlif, 243
+"nation park" and wildlif, 755
+"nation park" and wildlif, 247
+"nation park" and wildlif, 248
+"nation park" and wildlif, 1785
+"nation park" and wildlif, 2043
+"nation park" and wildlif, 252
+"nation park" and wildlif, 1789
+"nation park" and wildlif, 2046
+"nation park" and wildlif, 1279
+murchison fall, 308
