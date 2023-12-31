@@ -1,1 +1,4 @@
 Hard coded (preprocessing)
+
+Ideas:
+Spell checking: Maybe we can implement a spell cheking mecanism to handle typos in the queries
