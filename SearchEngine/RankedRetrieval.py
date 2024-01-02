@@ -70,9 +70,9 @@ class TFIDFRankedRetrieval:
             self.process_query(query_number, query_text)
 
 # Example usage
-index_file = './SearchEngine/positional_inverted_index_v3.txt'
-queries_file = './SearchEngine/queries.ranked.txt'
-results_file = './SearchEngine/results.ranked.txt'
+index_file = '/workspace/Information-Retrieval-/positional_inverted_index_v1.txt'
+queries_file = '/workspace/Information-Retrieval-/SearchEngine/queries.ranked.txt'
+results_file = '/workspace/Information-Retrieval-/SearchEngine/NewResults/results.ranked.txt'
 
 ranked_retrieval = TFIDFRankedRetrieval(index_file, queries_file, results_file, do_stemming=True, do_stopwords_removal=True)
 ranked_retrieval.run_ranked_retrieval()

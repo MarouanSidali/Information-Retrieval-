@@ -33,7 +33,7 @@ class QueryProcessor:
                     results.add(doc)
                     break
 
-        with open('./SearchEngine/results.txt', 'a') as file:
+        with open('/workspace/Information-Retrieval-/SearchEngine/NewResults//results.txt', 'a') as file:
             for doc_id in results:
                 file.write(f"{phrase}, {doc_id}\n")
 
@@ -75,7 +75,7 @@ class QueryProcessor:
             elif operator == 'or':
                 final_result = final_result | results[i]
 
-        with open('./SearchEngine/results.txt', 'a') as file:
+        with open('/workspace/Information-Retrieval-/SearchEngine/NewResults//results.txt', 'a') as file:
             for doc_id in final_result:
                 file.write(f"{query}, {doc_id}\n")
 
@@ -96,7 +96,7 @@ class QueryProcessor:
                     results.add(doc)
                     break
 
-        with open('./SearchEngine/results.txt', 'a') as file:
+        with open('/workspace/Information-Retrieval-/SearchEngine/NewResults/results.txt', 'a') as file:
             for doc_id in results:
                 file.write(f"{query}, {doc_id}\n")
 

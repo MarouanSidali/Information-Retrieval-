@@ -91,9 +91,9 @@ class TFIDFCosineSimilarityRetrieval:
             self.process_query(query_number, query_text)
 
 # Example usage
-index_file = './SearchEngine/positional_inverted_index_v3.txt'
-queries_file = './SearchEngine/queries.ranked.txt'
-results_file = './SearchEngine/results.cosinesimilarity.txt'
+index_file = '/workspace/Information-Retrieval-/positional_inverted_index_v1.txt'
+queries_file = '/workspace/Information-Retrieval-/SearchEngine/queries.ranked.txt'
+results_file = '/workspace/Information-Retrieval-/SearchEngine/NewResults/results.cosinesimilarity.txt'
 
 cosine_similarity_retrieval = TFIDFCosineSimilarityRetrieval(index_file, queries_file, results_file, do_stemming=True, do_stopwords_removal=True)
 cosine_similarity_retrieval.run_cosine_similarity_retrieval()
