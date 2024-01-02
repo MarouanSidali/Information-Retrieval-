@@ -105,7 +105,7 @@ if __name__ == "__main__":
     xml_file = "/workspace/Information-Retrieval-/Data Collection/UnescoWebsite/updated_combined_xml_file.xml"
     output_file = "/workspace/Information-Retrieval-/positional_inverted_index_v1.txt"
 
-    do_stemming = False  # Set to False to disable stemming
+    do_stemming = True  # Set to False to disable stemming
     do_stopword_removal = True  # Set to False to disable stopword removal
     do_ner = False  # Set to False to disable named entity recognition
 
