@@ -30,7 +30,7 @@ queries = {
     'q4': 'Cleopatra',
     'q5': 'Antony',
     'q6': 'Antony OR Cleopatra',
-    'q7': 'Antony AND NOT Cleopatra',
+    'q7': 'Cleopatra AND NOT Antony',
     'q8': '"ancient ruins"',
     'q9': '#10(ancient, ruins)',  # Proximity search
     'q10': '"national park" AND wildlife',

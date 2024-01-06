@@ -48891,3 +48891,759 @@ antoni or cleopatra, 243
 antoni or cleopatra, 1591
 antoni or cleopatra, 1592
 antoni or cleopatra, 831
+cleopatra, 1
+cleopatra, 2
+cleopatra, 15
+cleopatra, 1687
+antoni, 1600
+antoni, 1
+antoni, 2
+antoni, 1097
+antoni, 2633
+antoni, 812
+antoni, 243
+antoni, 1591
+antoni, 1592
+antoni, 831
+antoni or cleopatra, 1600
+antoni or cleopatra, 1
+antoni or cleopatra, 2
+antoni or cleopatra, 1687
+antoni or cleopatra, 1097
+antoni or cleopatra, 2633
+antoni or cleopatra, 812
+antoni or cleopatra, 15
+antoni or cleopatra, 243
+antoni or cleopatra, 1591
+antoni or cleopatra, 1592
+antoni or cleopatra, 831
+antoni and not cleopatra, 1
+antoni and not cleopatra, 2
+ancient ruin, 740
+ancient ruin, 1384
+ancient ruin, 745
+ancient ruin, 1003
+ancient ruin, 2388
+ancient ruin, 2551
+ancient ruin, 1468
+ancient ruin, 1502
+ancient ruin, 2
+ancient ruin, 5
+ancient ruin, 1541
+ancient ruin, 1032
+ancient ruin, 912
+ancient ruin, 1044
+ancient ruin, 2452
+ancient ruin, 1821
+ancient ruin, 2334
+ancient ruin, 925
+ancient ruin, 1441
+ancient ruin, 2210
+ancient ruin, 2083
+ancient ruin, 934
+ancient ruin, 935
+ancient ruin, 2344
+ancient ruin, 2471
+ancient ruin, 2091
+ancient ruin, 940
+ancient ruin, 2737
+ancient ruin, 1464
+ancient ruin, 1468
+ancient ruin, 959
+ancient ruin, 448
+ancient ruin, 454
+ancient ruin, 456
+ancient ruin, 1998
+ancient ruin, 848
+ancient ruin, 2388
+ancient ruin, 89
+ancient ruin, 1502
+ancient ruin, 1248
+ancient ruin, 740
+ancient ruin, 1384
+ancient ruin, 745
+ancient ruin, 1003
+ancient ruin, 2672
+ancient ruin, 2675
+ancient ruin, 2421
+ancient ruin, 2038
+ancient ruin, 2551
+ancient ruin, 2550
+ancient ruin, 2169
+ancient ruin, 1019
+"nation park", 2048
+"nation park", 4
+"nation park", 2052
+"nation park", 6
+"nation park", 2566
+"nation park", 532
+"nation park", 2071
+"nation park", 1531
+"nation park", 2073
+"nation park", 2586
+"nation park", 544
+"nation park", 1568
+"nation park", 2594
+"nation park", 2597
+"nation park", 2605
+"nation park", 559
+"nation park", 2101
+"nation park", 54
+"nation park", 2613
+"nation park", 2106
+"nation park", 2619
+"nation park", 2625
+"nation park", 2144
+"nation park", 103
+"nation park", 105
+"nation park", 2154
+"nation park", 617
+"nation park", 2671
+"nation park", 2163
+"nation park", 2169
+"nation park", 2687
+"nation park", 2689
+"nation park", 2178
+"nation park", 2697
+"nation park", 655
+"nation park", 2192
+"nation park", 2710
+"nation park", 2711
+"nation park", 2200
+"nation park", 664
+"nation park", 154
+"nation park", 155
+"nation park", 2712
+"nation park", 667
+"nation park", 2716
+"nation park", 2718
+"nation park", 2714
+"nation park", 674
+"nation park", 164
+"nation park", 678
+"nation park", 168
+"nation park", 2735
+"nation park", 179
+"nation park", 2228
+"nation park", 691
+"nation park", 1204
+"nation park", 696
+"nation park", 188
+"nation park", 189
+"nation park", 190
+"nation park", 191
+"nation park", 192
+"nation park", 2236
+"nation park", 1213
+"nation park", 1214
+"nation park", 200
+"nation park", 2252
+"nation park", 716
+"nation park", 2262
+"nation park", 728
+"nation park", 730
+"nation park", 222
+"nation park", 2275
+"nation park", 1764
+"nation park", 2281
+"nation park", 234
+"nation park", 235
+"nation park", 237
+"nation park", 238
+"nation park", 1776
+"nation park", 243
+"nation park", 755
+"nation park", 247
+"nation park", 248
+"nation park", 1785
+"nation park", 252
+"nation park", 253
+"nation park", 1789
+"nation park", 2303
+"nation park", 1279
+"nation park", 257
+"nation park", 2306
+"nation park", 2308
+"nation park", 1801
+"nation park", 267
+"nation park", 1291
+"nation park", 783
+"nation park", 278
+"nation park", 1816
+"nation park", 282
+"nation park", 1820
+"nation park", 1821
+"nation park", 290
+"nation park", 803
+"nation park", 805
+"nation park", 810
+"nation park", 1330
+"nation park", 308
+"nation park", 312
+"nation park", 318
+"nation park", 324
+"nation park", 2372
+"nation park", 1350
+"nation park", 1870
+"nation park", 338
+"nation park", 339
+"nation park", 857
+"nation park", 2396
+"nation park", 360
+"nation park", 362
+"nation park", 1898
+"nation park", 1905
+"nation park", 371
+"nation park", 883
+"nation park", 374
+"nation park", 1923
+"nation park", 388
+"nation park", 2439
+"nation park", 393
+"nation park", 2443
+"nation park", 399
+"nation park", 2451
+"nation park", 1427
+"nation park", 2457
+"nation park", 1951
+"nation park", 931
+"nation park", 2472
+"nation park", 1967
+"nation park", 1971
+"nation park", 2503
+"nation park", 465
+"nation park", 2010
+"nation park", 2018
+"nation park", 2024
+"nation park", 1516
+"nation park", 495
+"nation park", 2043
+"nation park", 509
+"nation park", 2046
+"nation park" and wildlif, 2048
+"nation park" and wildlif, 4
+"nation park" and wildlif, 2052
+"nation park" and wildlif, 6
+"nation park" and wildlif, 2566
+"nation park" and wildlif, 532
+"nation park" and wildlif, 2071
+"nation park" and wildlif, 1531
+"nation park" and wildlif, 2073
+"nation park" and wildlif, 2586
+"nation park" and wildlif, 544
+"nation park" and wildlif, 1568
+"nation park" and wildlif, 2594
+"nation park" and wildlif, 2597
+"nation park" and wildlif, 2605
+"nation park" and wildlif, 559
+"nation park" and wildlif, 2101
+"nation park" and wildlif, 54
+"nation park" and wildlif, 2613
+"nation park" and wildlif, 2106
+"nation park" and wildlif, 2619
+"nation park" and wildlif, 2625
+"nation park" and wildlif, 2144
+"nation park" and wildlif, 103
+"nation park" and wildlif, 105
+"nation park" and wildlif, 2154
+"nation park" and wildlif, 617
+"nation park" and wildlif, 2671
+"nation park" and wildlif, 2163
+"nation park" and wildlif, 2169
+"nation park" and wildlif, 2687
+"nation park" and wildlif, 2689
+"nation park" and wildlif, 2178
+"nation park" and wildlif, 2697
+"nation park" and wildlif, 655
+"nation park" and wildlif, 2192
+"nation park" and wildlif, 2710
+"nation park" and wildlif, 2711
+"nation park" and wildlif, 2200
+"nation park" and wildlif, 664
+"nation park" and wildlif, 154
+"nation park" and wildlif, 155
+"nation park" and wildlif, 2712
+"nation park" and wildlif, 667
+"nation park" and wildlif, 2716
+"nation park" and wildlif, 2718
+"nation park" and wildlif, 2714
+"nation park" and wildlif, 674
+"nation park" and wildlif, 164
+"nation park" and wildlif, 678
+"nation park" and wildlif, 168
+"nation park" and wildlif, 2735
+"nation park" and wildlif, 179
+"nation park" and wildlif, 2228
+"nation park" and wildlif, 691
+"nation park" and wildlif, 1204
+"nation park" and wildlif, 696
+"nation park" and wildlif, 188
+"nation park" and wildlif, 189
+"nation park" and wildlif, 190
+"nation park" and wildlif, 191
+"nation park" and wildlif, 192
+"nation park" and wildlif, 2236
+"nation park" and wildlif, 1213
+"nation park" and wildlif, 1214
+"nation park" and wildlif, 200
+"nation park" and wildlif, 2252
+"nation park" and wildlif, 716
+"nation park" and wildlif, 2262
+"nation park" and wildlif, 728
+"nation park" and wildlif, 730
+"nation park" and wildlif, 222
+"nation park" and wildlif, 2275
+"nation park" and wildlif, 1764
+"nation park" and wildlif, 2281
+"nation park" and wildlif, 234
+"nation park" and wildlif, 235
+"nation park" and wildlif, 237
+"nation park" and wildlif, 238
+"nation park" and wildlif, 1776
+"nation park" and wildlif, 243
+"nation park" and wildlif, 755
+"nation park" and wildlif, 247
+"nation park" and wildlif, 248
+"nation park" and wildlif, 1785
+"nation park" and wildlif, 252
+"nation park" and wildlif, 253
+"nation park" and wildlif, 1789
+"nation park" and wildlif, 2303
+"nation park" and wildlif, 1279
+"nation park" and wildlif, 257
+"nation park" and wildlif, 2306
+"nation park" and wildlif, 2308
+"nation park" and wildlif, 1801
+"nation park" and wildlif, 267
+"nation park" and wildlif, 1291
+"nation park" and wildlif, 783
+"nation park" and wildlif, 278
+"nation park" and wildlif, 1816
+"nation park" and wildlif, 282
+"nation park" and wildlif, 1820
+"nation park" and wildlif, 1821
+"nation park" and wildlif, 290
+"nation park" and wildlif, 803
+"nation park" and wildlif, 805
+"nation park" and wildlif, 810
+"nation park" and wildlif, 1330
+"nation park" and wildlif, 308
+"nation park" and wildlif, 312
+"nation park" and wildlif, 318
+"nation park" and wildlif, 324
+"nation park" and wildlif, 2372
+"nation park" and wildlif, 1350
+"nation park" and wildlif, 1870
+"nation park" and wildlif, 338
+"nation park" and wildlif, 339
+"nation park" and wildlif, 857
+"nation park" and wildlif, 2396
+"nation park" and wildlif, 360
+"nation park" and wildlif, 362
+"nation park" and wildlif, 1898
+"nation park" and wildlif, 1905
+"nation park" and wildlif, 371
+"nation park" and wildlif, 883
+"nation park" and wildlif, 374
+"nation park" and wildlif, 1923
+"nation park" and wildlif, 388
+"nation park" and wildlif, 2439
+"nation park" and wildlif, 393
+"nation park" and wildlif, 2443
+"nation park" and wildlif, 399
+"nation park" and wildlif, 2451
+"nation park" and wildlif, 1427
+"nation park" and wildlif, 2457
+"nation park" and wildlif, 1951
+"nation park" and wildlif, 931
+"nation park" and wildlif, 2472
+"nation park" and wildlif, 1967
+"nation park" and wildlif, 1971
+"nation park" and wildlif, 2503
+"nation park" and wildlif, 465
+"nation park" and wildlif, 2010
+"nation park" and wildlif, 2018
+"nation park" and wildlif, 2024
+"nation park" and wildlif, 1516
+"nation park" and wildlif, 495
+"nation park" and wildlif, 2043
+"nation park" and wildlif, 509
+"nation park" and wildlif, 2046
+cleopatra, 1
+cleopatra, 2
+cleopatra, 15
+cleopatra, 1687
+antoni, 1600
+antoni, 1
+antoni, 2
+antoni, 1097
+antoni, 2633
+antoni, 812
+antoni, 243
+antoni, 1591
+antoni, 1592
+antoni, 831
+antoni or cleopatra, 1600
+antoni or cleopatra, 1
+antoni or cleopatra, 2
+antoni or cleopatra, 1687
+antoni or cleopatra, 1097
+antoni or cleopatra, 2633
+antoni or cleopatra, 812
+antoni or cleopatra, 15
+antoni or cleopatra, 243
+antoni or cleopatra, 1591
+antoni or cleopatra, 1592
+antoni or cleopatra, 831
+cleopatra and not antoni, 1
+cleopatra and not antoni, 2
+ancient ruin, 740
+ancient ruin, 1384
+ancient ruin, 745
+ancient ruin, 1003
+ancient ruin, 2388
+ancient ruin, 2551
+ancient ruin, 1468
+ancient ruin, 1502
+ancient ruin, 2
+ancient ruin, 5
+ancient ruin, 1541
+ancient ruin, 1032
+ancient ruin, 912
+ancient ruin, 1044
+ancient ruin, 2452
+ancient ruin, 1821
+ancient ruin, 2334
+ancient ruin, 925
+ancient ruin, 1441
+ancient ruin, 2210
+ancient ruin, 2083
+ancient ruin, 934
+ancient ruin, 935
+ancient ruin, 2344
+ancient ruin, 2471
+ancient ruin, 2091
+ancient ruin, 940
+ancient ruin, 2737
+ancient ruin, 1464
+ancient ruin, 1468
+ancient ruin, 959
+ancient ruin, 448
+ancient ruin, 454
+ancient ruin, 456
+ancient ruin, 1998
+ancient ruin, 848
+ancient ruin, 2388
+ancient ruin, 89
+ancient ruin, 1502
+ancient ruin, 1248
+ancient ruin, 740
+ancient ruin, 1384
+ancient ruin, 745
+ancient ruin, 1003
+ancient ruin, 2672
+ancient ruin, 2675
+ancient ruin, 2421
+ancient ruin, 2038
+ancient ruin, 2551
+ancient ruin, 2550
+ancient ruin, 2169
+ancient ruin, 1019
+"nation park", 2048
+"nation park", 4
+"nation park", 2052
+"nation park", 6
+"nation park", 2566
+"nation park", 532
+"nation park", 2071
+"nation park", 1531
+"nation park", 2073
+"nation park", 2586
+"nation park", 544
+"nation park", 1568
+"nation park", 2594
+"nation park", 2597
+"nation park", 2605
+"nation park", 559
+"nation park", 2101
+"nation park", 54
+"nation park", 2613
+"nation park", 2106
+"nation park", 2619
+"nation park", 2625
+"nation park", 2144
+"nation park", 103
+"nation park", 105
+"nation park", 2154
+"nation park", 617
+"nation park", 2671
+"nation park", 2163
+"nation park", 2169
+"nation park", 2687
+"nation park", 2689
+"nation park", 2178
+"nation park", 2697
+"nation park", 655
+"nation park", 2192
+"nation park", 2710
+"nation park", 2711
+"nation park", 2200
+"nation park", 664
+"nation park", 154
+"nation park", 155
+"nation park", 2712
+"nation park", 667
+"nation park", 2716
+"nation park", 2718
+"nation park", 2714
+"nation park", 674
+"nation park", 164
+"nation park", 678
+"nation park", 168
+"nation park", 2735
+"nation park", 179
+"nation park", 2228
+"nation park", 691
+"nation park", 1204
+"nation park", 696
+"nation park", 188
+"nation park", 189
+"nation park", 190
+"nation park", 191
+"nation park", 192
+"nation park", 2236
+"nation park", 1213
+"nation park", 1214
+"nation park", 200
+"nation park", 2252
+"nation park", 716
+"nation park", 2262
+"nation park", 728
+"nation park", 730
+"nation park", 222
+"nation park", 2275
+"nation park", 1764
+"nation park", 2281
+"nation park", 234
+"nation park", 235
+"nation park", 237
+"nation park", 238
+"nation park", 1776
+"nation park", 243
+"nation park", 755
+"nation park", 247
+"nation park", 248
+"nation park", 1785
+"nation park", 252
+"nation park", 253
+"nation park", 1789
+"nation park", 2303
+"nation park", 1279
+"nation park", 257
+"nation park", 2306
+"nation park", 2308
+"nation park", 1801
+"nation park", 267
+"nation park", 1291
+"nation park", 783
+"nation park", 278
+"nation park", 1816
+"nation park", 282
+"nation park", 1820
+"nation park", 1821
+"nation park", 290
+"nation park", 803
+"nation park", 805
+"nation park", 810
+"nation park", 1330
+"nation park", 308
+"nation park", 312
+"nation park", 318
+"nation park", 324
+"nation park", 2372
+"nation park", 1350
+"nation park", 1870
+"nation park", 338
+"nation park", 339
+"nation park", 857
+"nation park", 2396
+"nation park", 360
+"nation park", 362
+"nation park", 1898
+"nation park", 1905
+"nation park", 371
+"nation park", 883
+"nation park", 374
+"nation park", 1923
+"nation park", 388
+"nation park", 2439
+"nation park", 393
+"nation park", 2443
+"nation park", 399
+"nation park", 2451
+"nation park", 1427
+"nation park", 2457
+"nation park", 1951
+"nation park", 931
+"nation park", 2472
+"nation park", 1967
+"nation park", 1971
+"nation park", 2503
+"nation park", 465
+"nation park", 2010
+"nation park", 2018
+"nation park", 2024
+"nation park", 1516
+"nation park", 495
+"nation park", 2043
+"nation park", 509
+"nation park", 2046
+"nation park" and wildlif, 2048
+"nation park" and wildlif, 4
+"nation park" and wildlif, 2052
+"nation park" and wildlif, 6
+"nation park" and wildlif, 2566
+"nation park" and wildlif, 532
+"nation park" and wildlif, 2071
+"nation park" and wildlif, 1531
+"nation park" and wildlif, 2073
+"nation park" and wildlif, 2586
+"nation park" and wildlif, 544
+"nation park" and wildlif, 1568
+"nation park" and wildlif, 2594
+"nation park" and wildlif, 2597
+"nation park" and wildlif, 2605
+"nation park" and wildlif, 559
+"nation park" and wildlif, 2101
+"nation park" and wildlif, 54
+"nation park" and wildlif, 2613
+"nation park" and wildlif, 2106
+"nation park" and wildlif, 2619
+"nation park" and wildlif, 2625
+"nation park" and wildlif, 2144
+"nation park" and wildlif, 103
+"nation park" and wildlif, 105
+"nation park" and wildlif, 2154
+"nation park" and wildlif, 617
+"nation park" and wildlif, 2671
+"nation park" and wildlif, 2163
+"nation park" and wildlif, 2169
+"nation park" and wildlif, 2687
+"nation park" and wildlif, 2689
+"nation park" and wildlif, 2178
+"nation park" and wildlif, 2697
+"nation park" and wildlif, 655
+"nation park" and wildlif, 2192
+"nation park" and wildlif, 2710
+"nation park" and wildlif, 2711
+"nation park" and wildlif, 2200
+"nation park" and wildlif, 664
+"nation park" and wildlif, 154
+"nation park" and wildlif, 155
+"nation park" and wildlif, 2712
+"nation park" and wildlif, 667
+"nation park" and wildlif, 2716
+"nation park" and wildlif, 2718
+"nation park" and wildlif, 2714
+"nation park" and wildlif, 674
+"nation park" and wildlif, 164
+"nation park" and wildlif, 678
+"nation park" and wildlif, 168
+"nation park" and wildlif, 2735
+"nation park" and wildlif, 179
+"nation park" and wildlif, 2228
+"nation park" and wildlif, 691
+"nation park" and wildlif, 1204
+"nation park" and wildlif, 696
+"nation park" and wildlif, 188
+"nation park" and wildlif, 189
+"nation park" and wildlif, 190
+"nation park" and wildlif, 191
+"nation park" and wildlif, 192
+"nation park" and wildlif, 2236
+"nation park" and wildlif, 1213
+"nation park" and wildlif, 1214
+"nation park" and wildlif, 200
+"nation park" and wildlif, 2252
+"nation park" and wildlif, 716
+"nation park" and wildlif, 2262
+"nation park" and wildlif, 728
+"nation park" and wildlif, 730
+"nation park" and wildlif, 222
+"nation park" and wildlif, 2275
+"nation park" and wildlif, 1764
+"nation park" and wildlif, 2281
+"nation park" and wildlif, 234
+"nation park" and wildlif, 235
+"nation park" and wildlif, 237
+"nation park" and wildlif, 238
+"nation park" and wildlif, 1776
+"nation park" and wildlif, 243
+"nation park" and wildlif, 755
+"nation park" and wildlif, 247
+"nation park" and wildlif, 248
+"nation park" and wildlif, 1785
+"nation park" and wildlif, 252
+"nation park" and wildlif, 253
+"nation park" and wildlif, 1789
+"nation park" and wildlif, 2303
+"nation park" and wildlif, 1279
+"nation park" and wildlif, 257
+"nation park" and wildlif, 2306
+"nation park" and wildlif, 2308
+"nation park" and wildlif, 1801
+"nation park" and wildlif, 267
+"nation park" and wildlif, 1291
+"nation park" and wildlif, 783
+"nation park" and wildlif, 278
+"nation park" and wildlif, 1816
+"nation park" and wildlif, 282
+"nation park" and wildlif, 1820
+"nation park" and wildlif, 1821
+"nation park" and wildlif, 290
+"nation park" and wildlif, 803
+"nation park" and wildlif, 805
+"nation park" and wildlif, 810
+"nation park" and wildlif, 1330
+"nation park" and wildlif, 308
+"nation park" and wildlif, 312
+"nation park" and wildlif, 318
+"nation park" and wildlif, 324
+"nation park" and wildlif, 2372
+"nation park" and wildlif, 1350
+"nation park" and wildlif, 1870
+"nation park" and wildlif, 338
+"nation park" and wildlif, 339
+"nation park" and wildlif, 857
+"nation park" and wildlif, 2396
+"nation park" and wildlif, 360
+"nation park" and wildlif, 362
+"nation park" and wildlif, 1898
+"nation park" and wildlif, 1905
+"nation park" and wildlif, 371
+"nation park" and wildlif, 883
+"nation park" and wildlif, 374
+"nation park" and wildlif, 1923
+"nation park" and wildlif, 388
+"nation park" and wildlif, 2439
+"nation park" and wildlif, 393
+"nation park" and wildlif, 2443
+"nation park" and wildlif, 399
+"nation park" and wildlif, 2451
+"nation park" and wildlif, 1427
+"nation park" and wildlif, 2457
+"nation park" and wildlif, 1951
+"nation park" and wildlif, 931
+"nation park" and wildlif, 2472
+"nation park" and wildlif, 1967
+"nation park" and wildlif, 1971
+"nation park" and wildlif, 2503
+"nation park" and wildlif, 465
+"nation park" and wildlif, 2010
+"nation park" and wildlif, 2018
+"nation park" and wildlif, 2024
+"nation park" and wildlif, 1516
+"nation park" and wildlif, 495
+"nation park" and wildlif, 2043
+"nation park" and wildlif, 509
+"nation park" and wildlif, 2046
