@@ -18,6 +18,7 @@ class QueryProcessor:
 
     @staticmethod
     def process_phrase_query(phrase, index):
+        print("phrase")
         phrase = QueryProcessor.preprocess_query(phrase)
         print(phrase)
         words = re.findall(r'\b\w+\b', phrase)
@@ -44,38 +45,66 @@ class QueryProcessor:
     def process_boolean_query(query, index):
         query = QueryProcessor.preprocess_query(query)
         print(query)
-        # Separate the query into phrases and operators
-        components = re.findall(r'"[^"]+"|\b(?:and|or|not)\b|\b\w+\b', query)
-        print(components)
 
-        # Extract phrases and operators
-        phrases = [comp.strip('"') for comp in components if '"' in comp]
-        operators = [comp for comp in components if comp not in ['and', 'or', 'not']]
+        # If there are no double quotes, treat it as a boolean search
+        if '"' not in query:
+            # Separate the query into words and operators
+            components = re.findall(r'\b(?:and|or|not)\b|\b\w+\b', query)
+            print(components)
 
-        # Process each phrase and operator
-        results = []
-        for component in components:
-            if '"' in component:
-                phrase_result = QueryProcessor.process_phrase_query(component,index)
-                results.append(phrase_result)
-            else:
-                word = component
-                word = word.lower()
+            # Extract words and operators
+            words = [comp.lower() for comp in components if comp not in ['and', 'or', 'not']]
+            operators = [comp for comp in components if comp in ['and', 'or', 'not']]
+
+            # Process each word and operator
+            results = []
+            for word in words:
                 if word in index:
                     results.append(set(index[word]['positions'].keys()))
                 else:
                     results.append(set())
 
-        # Apply boolean operators
-        final_result = set(results[0])
-        for i in range(1, len(results), 2):
-            operator = operators[i // 2]
-            if operator == 'and':
-                final_result = final_result & results[i]
-            elif operator == 'or':
-                final_result = final_result | results[i]
+            # Apply boolean operators
+            final_result = results[0]
+            for i in range(1, len(results)):
+                operator = operators[i - 1]
+                if operator == 'and':
+                    final_result = final_result & results[i]
+                elif operator == 'or':
+                    final_result = final_result | results[i]
+                elif operator == 'not':
+                    final_result = final_result - results[i]
 
-        with open('/workspace/Information-Retrieval-/SearchEngine/NewResults//results.txt', 'a') as file:
+        else:
+            # Separate the query into phrases and operators
+            components = re.findall(r'"[^"]+"|\b(?:and|or|not)\b', query)
+            print(components)
+
+            # Extract phrases and operators
+            phrases = [comp.strip('"') for comp in components if '"' in comp]
+            operators = [comp for comp in components if comp in ['and', 'or', 'not']]
+
+            # Process each phrase and operator
+            results = []
+            for component in components:
+                if '"' in component:
+                    phrase_result = QueryProcessor.process_phrase_query(component, index)
+                    results.append(phrase_result)
+
+            # Apply boolean operators
+            final_result = set(results[0])
+            for i in range(1, len(results), 2):
+                operator = operators[i // 2]
+                if operator == 'and':
+                    final_result = final_result & results[i]
+                elif operator == 'or':
+                    final_result = final_result | results[i]
+                elif operator == 'not':
+                    print(final_result, "final_results**********")
+                    final_result = final_result - results[i]
+
+        # Write the results to a file
+        with open('/workspace/Information-Retrieval-/SearchEngine/NewResults/results.txt', 'a') as file:
             for doc_id in final_result:
                 file.write(f"{query}, {doc_id}\n")
 

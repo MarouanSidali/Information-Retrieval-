@@ -24,17 +24,17 @@ engine = SearchEngine(index_file)
 
 # Sample queries
 queries = {
-    'q1': 'Sandstone',
-    'q2': 'landmark',
-    'q3': 'Heritage',
-    'q4': 'Wonders',
-    'q5': 'natural',
-    'q6': 'natural OR wonders',
-    'q7': 'natural AND NOT wonders',
+    # 'q1': 'Sandstone',
+    # 'q2': 'landmark',
+    # 'q3': 'Heritage',
+    'q4': 'Cleopatra',
+    'q5': 'Antony',
+    'q6': 'Antony OR Cleopatra',
+    'q7': 'Antony AND NOT Cleopatra',
     'q8': '"ancient ruins"',
     'q9': '#10(ancient, ruins)',  # Proximity search
     'q10': '"national park" AND wildlife',
-    'q11': "Murchison Falls"
+    # 'q11': "Murchison Falls"
 
 }
 
