@@ -76,3 +76,4 @@ results_file = '/workspace/Information-Retrieval-/SearchEngine/NewResults/result
 
 ranked_retrieval = TFIDFRankedRetrieval(index_file, queries_file, results_file, do_stemming=True, do_stopwords_removal=True)
 ranked_retrieval.run_ranked_retrieval()
+

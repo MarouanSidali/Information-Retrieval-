@@ -45,7 +45,7 @@ class TFIDFCosineSimilarityRetrieval:
 
     def calculate_tfidf(self, term, doc_id):
         tf = len(self.index[term]['positions'][doc_id])
-        idf = math.log10(len(self.index) / self.index[term]['df'])
+        idf = math.log10(2771 / self.index[term]['df'])
         return (1 + math.log10(tf)) * idf
 
     def calculate_tfidf_vector(self, terms, doc_id):
@@ -84,7 +84,7 @@ class TFIDFCosineSimilarityRetrieval:
         # Write the top 150 results to the results file
         with open(self.results_file, 'a') as file:
             for rank, (doc_id, score) in enumerate(sorted_results[:150], start=1):
-                file.write(f"{query_number},{doc_id},{score:.4f}\n")
+                file.write(f"{query_number},{doc_id},{score:.10f}\n")
 
     def run_cosine_similarity_retrieval(self):
         for query_number, query_text in self.queries.items():
@@ -93,7 +93,9 @@ class TFIDFCosineSimilarityRetrieval:
 # Example usage
 index_file = '/workspace/Information-Retrieval-/positional_inverted_index_v1.txt'
 queries_file = '/workspace/Information-Retrieval-/SearchEngine/queries.ranked.txt'
-results_file = '/workspace/Information-Retrieval-/SearchEngine/NewResults/results.cosinesimilarity.txt'
+results_file = '/workspace/Information-Retrieval-/SearchEngine/NewResults/results.cosinesimilarity2.txt'
 
 cosine_similarity_retrieval = TFIDFCosineSimilarityRetrieval(index_file, queries_file, results_file, do_stemming=True, do_stopwords_removal=True)
 cosine_similarity_retrieval.run_cosine_similarity_retrieval()
+
+
