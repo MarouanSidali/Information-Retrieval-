@@ -54,7 +54,7 @@ class TFIDFCosineSimilarityRetrieval:
             if term in self.index and doc_id in self.index[term]['positions']:
                 tfidf_vector[i] = self.calculate_tfidf(term, doc_id)
             else:
-                tfidf_vector[i] = 0.001  # Small non-zero value
+                tfidf_vector[i] = 0.0000000001  # Small non-zero value
         return tfidf_vector
 
     def calculate_cosine_similarity(self, query_vector, doc_vector):
