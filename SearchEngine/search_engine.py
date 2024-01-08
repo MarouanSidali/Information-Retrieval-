@@ -39,9 +39,9 @@ queries = {
 }
 
 for query_name, query_text in queries.items():
-    print(query_text)
+    query_text = query_text.lower()
 
-    if 'OR' in query_text or 'AND' in query_text or 'NOT' in query_text:
+    if 'or' in query_text or 'and' in query_text or 'not' in query_text:
         # Boolean search
         result = engine.boolean_search(query_text)
     elif '"' in query_text:
