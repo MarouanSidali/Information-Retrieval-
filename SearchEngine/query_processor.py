@@ -66,14 +66,15 @@ class QueryProcessor:
 
             # Apply boolean operators
             final_result = results[0]
-            for i in range(1, len(results)):
-                operator = operators[i - 1]
-                if operator == 'and':
+            i = 1
+            while i < len(results):
+                if i < len(operators) and operators[i - 1] == 'not':
+                    results[i] = set(index.keys()) - results[i]
+                if i - 1 < len(operators) and operators[i - 1] == 'and':
                     final_result = final_result & results[i]
-                elif operator == 'or':
+                elif i - 1 < len(operators) and operators[i - 1] == 'or':
                     final_result = final_result | results[i]
-                elif operator == 'not':
-                    final_result = final_result - results[i]
+                i += 1
 
         else:
             # Separate the query into phrases and operators
@@ -93,15 +94,15 @@ class QueryProcessor:
 
             # Apply boolean operators
             final_result = set(results[0])
-            for i in range(1, len(results), 2):
-                operator = operators[i // 2]
-                if operator == 'and':
+            i = 1
+            while i < len(results):
+                if i < len(operators) and operators[i // 2] == 'not':
+                    results[i] = set(index.keys()) - results[i]
+                if i - 1 < len(operators) and operators[i // 2] == 'and':
                     final_result = final_result & results[i]
-                elif operator == 'or':
+                elif i - 1 < len(operators) and operators[i // 2] == 'or':
                     final_result = final_result | results[i]
-                elif operator == 'not':
-                    print(final_result, "final_results**********")
-                    final_result = final_result - results[i]
+                i += 1
 
         # Write the results to a file
         with open('/workspace/Information-Retrieval-/SearchEngine/NewResults/results.txt', 'a') as file:
@@ -109,6 +110,10 @@ class QueryProcessor:
                 file.write(f"{query}, {doc_id}\n")
 
         return final_result
+
+
+
+
 
     @staticmethod
     def process_proximity_query(query, proximity, index):
