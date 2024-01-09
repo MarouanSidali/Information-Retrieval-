@@ -48,7 +48,7 @@ def preprocess_text(content, description, stop_words, stemmer, nlp, do_stemming=
 
     return preprocessed_tokens
 
-def build_positional_inverted_index(xml_file, do_stemming=True, do_stopword_removal=True, do_ner=True):
+def build_positional_inverted_index(xml_file, do_stemming=True, do_stopword_removal=True, do_ner=False):
     inverted_index = {}
     # doc_id = 0
 
