@@ -25,7 +25,7 @@ def extract_named_entities(text, nlp):
     doc = nlp(text)
     return [ent.text for ent in doc.ents]
 
-def preprocess_text(content, description, stop_words, stemmer, nlp, do_stemming=True, do_stopword_removal=True, do_ner=True):
+def preprocess_text(content, description, stop_words, stemmer, nlp, do_stemming=True, do_stopword_removal=True, do_ner=False):
     # Extract named entities if enabled
     if do_ner:
         entities = extract_named_entities(content, nlp)
