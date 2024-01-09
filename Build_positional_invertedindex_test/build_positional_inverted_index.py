@@ -50,7 +50,7 @@ def preprocess_text(content, description, stop_words, stemmer, nlp, do_stemming=
 
 def build_positional_inverted_index(xml_file, do_stemming=True, do_stopword_removal=True, do_ner=True):
     inverted_index = {}
-    doc_id = 0
+    # doc_id = 0
 
     # Parse the XML file
     tree = ET.parse(xml_file)
@@ -62,7 +62,8 @@ def build_positional_inverted_index(xml_file, do_stemming=True, do_stopword_remo
     nlp = initialize_spacy()
 
     for location in root.findall('location'):
-        doc_id += 1
+        # doc_id += 1
+        doc_id = location.find('Doc_ID').text # doc_id directly from the xml_file
         content = location.find('Content').text
         description = location.find('Description').text
 
